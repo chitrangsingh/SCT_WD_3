@@ -48,8 +48,6 @@ body {
 .winner_container {
   padding: 15px;
   border: 2px solid rgb(230, 224, 224);
-  position: absolute;
-  top: 65px;
   color: rgb(86, 27, 27);
   background-color: rgb(234, 138, 13);
   border-radius: 20px;
